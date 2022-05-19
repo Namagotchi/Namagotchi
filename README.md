@@ -1,1 +1,1 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thetruenam&cover_image=true&theme=natemoo-re&bar_color=009dff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=thetruenam&redirect=true)
+[![Spotify](https://namagotchi.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
